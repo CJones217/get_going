@@ -12,7 +12,7 @@ fn main() {
     let  defcon2_items = ["arduino","pokedex", "read","wireshark"];
 
     let  list_of_shit = [defcon0_items,defcon1_items,defcon2_items];
-    let  random_number = rand::thread_rng().gen_range(0, 3);
+    let  random_number = rand::thread_rng().gen_range(0, 4);
 
     println!("get off your ass");
     for n in 0.. list_of_shit.len() {
