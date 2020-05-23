@@ -1,6 +1,8 @@
 //future additions, pick based on level of urgency (tuple with string and level of urgency)
-
-
+//add feature to add or remove tasks
+//use with database?
+//gui
+//app
 
 use rand::Rng;
 
